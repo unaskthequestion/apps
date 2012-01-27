@@ -1,0 +1,1 @@
+L'aplicaci— per fer servir bitxos auto-animats.
